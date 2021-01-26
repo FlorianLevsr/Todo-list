@@ -1,0 +1,32 @@
+form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-input {
+
+    background-color: white;
+    border-radius: 0.5em;
+    width: 85%;
+    height: 2em;
+    font-size: 1.5em;
+    font-weight: 400;
+    color: black;
+    padding: 0.7em 1em;
+    outline: none;
+    border-style: none;
+    opacity: 90%;
+
+}
+
+.submit-button{
+    border-radius: 0.5em;
+    background-color: #218838;
+    color: white;
+    opacity: 90%;
+    width: 10%;
+    height: 2em;
+    font-size: 1.5em;
+    outline: none;
+    border-style: none;
+}
